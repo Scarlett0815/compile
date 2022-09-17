@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/labLexer.dir/src/labLexer.c.o  -o labLexer 
