@@ -1,0 +1,3 @@
+/home/scarlett/Documents/compile/h3/myshixun/antlr4-examples/build/CMakeFiles/rebuild_cache.dir
+/home/scarlett/Documents/compile/h3/myshixun/antlr4-examples/build/CMakeFiles/edit_cache.dir
+/home/scarlett/Documents/compile/h3/myshixun/antlr4-examples/build/CMakeFiles/demo.dir

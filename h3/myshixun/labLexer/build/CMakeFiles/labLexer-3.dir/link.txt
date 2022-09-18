@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/labLexer-3.dir/src/labLexer-3.cpp.o CMakeFiles/labLexer-3.dir/antlr4cpp_generated_src/labLexer/labLexer.cpp.o  -o labLexer-3  -Wl,-rpath,/home/scarlett/Documents/compile/h3/myshixun/labLexer/lib ../lib/libantlr4-runtime.so.4.8 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/demo.dir/src/main.cpp.o CMakeFiles/demo.dir/antlr4cpp_generated_src/labLexer/labLexer.cpp.o  -o demo  -Wl,-rpath,/home/scarlett/Documents/compile/h3/myshixun/antlr4-examples/lib ../lib/libantlr4-runtime.so.4.8 

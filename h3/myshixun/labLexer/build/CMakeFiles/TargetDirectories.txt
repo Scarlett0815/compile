@@ -1,0 +1,3 @@
+/home/scarlett/Documents/compile/h3/myshixun/labLexer/build/CMakeFiles/edit_cache.dir
+/home/scarlett/Documents/compile/h3/myshixun/labLexer/build/CMakeFiles/rebuild_cache.dir
+/home/scarlett/Documents/compile/h3/myshixun/labLexer/build/CMakeFiles/labLexer-3.dir
