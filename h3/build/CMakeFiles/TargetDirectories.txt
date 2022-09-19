@@ -1,3 +1,0 @@
-/home/scarlett/Documents/compile/h3/build/CMakeFiles/rebuild_cache.dir
-/home/scarlett/Documents/compile/h3/build/CMakeFiles/edit_cache.dir
-/home/scarlett/Documents/compile/h3/build/CMakeFiles/labLexer.dir
