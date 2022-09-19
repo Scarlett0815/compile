@@ -12,7 +12,7 @@
 ## 设计
 
 我设计了一个状态机，设置了8个state，虽说最后发现有用的state只有三个。于是到最后，状态机的形式大致如下。
-"""
+'''
 switch (state){
     case 10000:
         if (lab_str[i] == '<'){
@@ -82,5 +82,5 @@ switch (state){
     break;
     default:break;
 };
-"""
+'''
 
