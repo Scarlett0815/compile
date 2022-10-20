@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g -pedantic   CMakeFiles/demo.dir/src/demoDriver.cpp.o CMakeFiles/demo.dir/src/main.cpp.o CMakeFiles/demo.dir/src/SyntaxTree.cpp.o CMakeFiles/demo.dir/src/SyntaxTreePrinter.cpp.o CMakeFiles/demo.dir/src/ErrorReporter.cpp.o CMakeFiles/demo.dir/demoParser.cpp.o CMakeFiles/demo.dir/demoScanner.cpp.o  -o demo 
