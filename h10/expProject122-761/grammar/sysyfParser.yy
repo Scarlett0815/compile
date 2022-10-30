@@ -360,11 +360,11 @@ FuncFParam:BType IDENTIFIER{
     $$ -> name = $2;
     $$ -> param_type = $1;
   }
-  |BType IDENTIFIER LBRACKET RBRACKET ParamVar{
+  |BType IDENTIFIER ParamVar{
     $$ = new SyntaxTree::FuncParam();
-    $$ -> name = $2 + "[]";
+    $$ -> name = $2;
     $$ -> param_type = $1;
-    $$ -> array_index = $5;
+    $$ -> array_index = $3;
   }
   ;
 
@@ -372,8 +372,9 @@ ParamVar:ParamVar LBRACKET Exp RBRACKET{
     $1.push_back(SyntaxTree::Ptr<SyntaxTree::Expr>($3));
     $$ = $1;
   }
-  | %empty{
+  | LBRACKET RBRACKET{
     $$ = SyntaxTree::PtrList<SyntaxTree::Expr>();
+    $$.push_back(nullptr);
   }
   ;
 
